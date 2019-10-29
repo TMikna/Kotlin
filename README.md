@@ -1,2 +1,2 @@
 # Kotlin
-Basics. Checking delegates mechanizm
+Basics. Checking delegates mechanism
